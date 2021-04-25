@@ -1,5 +1,5 @@
 ### Hi, I am Erdoğan Akpolat  👋
-welcome to my codes from.
+Welcome to my codes.
 Computer Engineering student, software developer.
 
 

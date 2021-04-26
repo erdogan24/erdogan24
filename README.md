@@ -1,5 +1,5 @@
 ### Hi, I am Erdoğan Akpolat  👋
 
-Computer Engineering student, software developer.
+Computer Engineering student and software developer.
 
 

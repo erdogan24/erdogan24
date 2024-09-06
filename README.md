@@ -1,6 +1,6 @@
 ### Hi, I am Erdogan Akpolat  👋
 
-Computer Engineering student and software developer.
+Computer Engineer and software developer.
 
 
 

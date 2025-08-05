@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋 , I'm Erdogan Akpolat</h1>
 <h3 align="center">I am a Computer engineer and a software developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=erdogan24&label=Profile%20views&color=0e75b6&style=flat" alt="erdogan24" /> </p>
 
 # Let's connect  🤝
 <p align="center">

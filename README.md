@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 , I'm Erdogan Akpolat</h1>
-<h3 align="center">I am a Computer engineer and a software developer.</h3>
+<h3 align="center">I am a Software engineer and a software developer.</h3>
 
 
 # Let's connect  🤝
